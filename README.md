@@ -6,6 +6,7 @@ A collection of cool hidden and not so hidden features of Git and GitHub. This c
 *Read this in other languages: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md).*
 
 ## Table of Contents
+  - [Git-Commands-Cheat-Sheet](https://github.com/Codexdrip/github-cheat-sheet/blob/master/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
   - [GitHub](#github)
     - [Ignore Whitespace](#ignore-whitespace)
     - [Adjust Tab Space](#adjust-tab-space)
